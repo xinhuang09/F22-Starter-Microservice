@@ -3,6 +3,7 @@ import pymysql
 import os
 
 
+
 class ColumbiaStudentResource:
 
     def __int__(self):
